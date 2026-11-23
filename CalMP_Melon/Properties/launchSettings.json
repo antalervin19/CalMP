@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CalMP_Melon": {
+      "commandName": "Executable",
+      "executablePath": "$(GamePath)\\CaL-ABP-Windows.exe",
+      "workingDirectory": "$(GamePath)"
+    }
+  }
+}
